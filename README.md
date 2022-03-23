@@ -8,7 +8,7 @@
 - 💭 Better than yesterday, worse than tomorrow.
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Jakuba-Emoji" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945451490271698967/956028628725022720/Webp.net-gifmaker.gif">
+  <img align="right" alt="Jakuba-Emoji" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945451490271698967/956205056523378728/Webp.net-gifmaker_1.gif">
 </div>
 <div> 
   <a href="https://instagram.com/gujakubavicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
