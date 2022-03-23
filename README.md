@@ -3,8 +3,8 @@
 - 📍 São Paulo, SP
 - 🙋🏽‍♂️ 18 anos
 - 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas
-- 💡 Muito foco, dedicação e persistência.
 - 📧 Contato: gustavo.jakuba@gmail.com
+- 💡 Muito foco, dedicação e persistência.
 - 💭 Better than yesterday, worse than tomorrow.
 
 <div style="display: inline_block"><br>
