@@ -6,6 +6,7 @@
 - 📧 Contato: gustavo.jakuba@gmail.com
 - 💡 Muito foco, dedicação e persistência.
 - 💭 Better than yesterday, worse than tomorrow.
+- 🦅 Sometimes you win, sometimes you learn.
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Jakuba-Emoji" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945451490271698967/956205056523378728/Webp.net-gifmaker_1.gif">
